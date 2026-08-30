@@ -1,0 +1,700 @@
+{
+  "name": "la09",
+  "num_jobs": 15,
+  "num_machines": 5,
+  "total_operations": 75,
+  "avg_flexibility": 1.0,
+  "known_best_makespan": 951,
+  "jobs": [
+    {
+      "job_id": 0,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            66
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            85
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            84
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            62
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 1,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            59
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            64
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            46
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            13
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 2,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            88
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            80
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            73
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            53
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 3,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            14
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            67
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            57
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            74
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            47
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 4,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            84
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            64
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            41
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            84
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            78
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 5,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            63
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            28
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            46
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            26
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 6,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            10
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            17
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            73
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            11
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            64
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 7,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            67
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            97
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            95
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            38
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            85
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 8,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            95
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            46
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            59
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            65
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            93
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 9,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            43
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            85
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            32
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            85
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 10,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            49
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            41
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            61
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            66
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            90
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 11,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            17
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            23
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            70
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            99
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 12,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            40
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            73
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            73
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            98
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            68
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 13,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            57
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            9
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            7
+          ]
+        },
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            13
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            98
+          ]
+        }
+      ]
+    },
+    {
+      "job_id": 14,
+      "num_operations": 5,
+      "operations": [
+        {
+          "eligible_machines": [
+            0
+          ],
+          "processing_times": [
+            37
+          ]
+        },
+        {
+          "eligible_machines": [
+            1
+          ],
+          "processing_times": [
+            85
+          ]
+        },
+        {
+          "eligible_machines": [
+            2
+          ],
+          "processing_times": [
+            17
+          ]
+        },
+        {
+          "eligible_machines": [
+            4
+          ],
+          "processing_times": [
+            79
+          ]
+        },
+        {
+          "eligible_machines": [
+            3
+          ],
+          "processing_times": [
+            41
+          ]
+        }
+      ]
+    }
+  ]
+}

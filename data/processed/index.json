@@ -1,0 +1,418 @@
+[
+  {
+    "name": "mk01",
+    "num_jobs": 10,
+    "num_machines": 6,
+    "total_operations": 55,
+    "avg_flexibility": 2.0909,
+    "known_best_makespan": 40
+  },
+  {
+    "name": "mk02",
+    "num_jobs": 10,
+    "num_machines": 6,
+    "total_operations": 58,
+    "avg_flexibility": 4.1034,
+    "known_best_makespan": 26
+  },
+  {
+    "name": "mk03",
+    "num_jobs": 15,
+    "num_machines": 8,
+    "total_operations": 150,
+    "avg_flexibility": 3.0067,
+    "known_best_makespan": 204
+  },
+  {
+    "name": "mk04",
+    "num_jobs": 15,
+    "num_machines": 8,
+    "total_operations": 90,
+    "avg_flexibility": 1.9111,
+    "known_best_makespan": 60
+  },
+  {
+    "name": "mk05",
+    "num_jobs": 15,
+    "num_machines": 4,
+    "total_operations": 106,
+    "avg_flexibility": 1.7075,
+    "known_best_makespan": 172
+  },
+  {
+    "name": "mk06",
+    "num_jobs": 10,
+    "num_machines": 15,
+    "total_operations": 150,
+    "avg_flexibility": 3.2667,
+    "known_best_makespan": 57
+  },
+  {
+    "name": "mk07",
+    "num_jobs": 20,
+    "num_machines": 5,
+    "total_operations": 100,
+    "avg_flexibility": 2.83,
+    "known_best_makespan": 139
+  },
+  {
+    "name": "mk08",
+    "num_jobs": 20,
+    "num_machines": 10,
+    "total_operations": 225,
+    "avg_flexibility": 1.4311,
+    "known_best_makespan": 523
+  },
+  {
+    "name": "mk09",
+    "num_jobs": 20,
+    "num_machines": 10,
+    "total_operations": 240,
+    "avg_flexibility": 2.525,
+    "known_best_makespan": 307
+  },
+  {
+    "name": "mk10",
+    "num_jobs": 20,
+    "num_machines": 15,
+    "total_operations": 240,
+    "avg_flexibility": 2.9833,
+    "known_best_makespan": 197
+  },
+  {
+    "name": "ft06",
+    "num_jobs": 6,
+    "num_machines": 6,
+    "total_operations": 36,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 55
+  },
+  {
+    "name": "ft10",
+    "num_jobs": 10,
+    "num_machines": 10,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 930
+  },
+  {
+    "name": "la01",
+    "num_jobs": 10,
+    "num_machines": 5,
+    "total_operations": 50,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 666
+  },
+  {
+    "name": "la02",
+    "num_jobs": 10,
+    "num_machines": 5,
+    "total_operations": 50,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 655
+  },
+  {
+    "name": "la03",
+    "num_jobs": 10,
+    "num_machines": 5,
+    "total_operations": 50,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 597
+  },
+  {
+    "name": "la04",
+    "num_jobs": 10,
+    "num_machines": 5,
+    "total_operations": 50,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 590
+  },
+  {
+    "name": "la05",
+    "num_jobs": 10,
+    "num_machines": 5,
+    "total_operations": 50,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 593
+  },
+  {
+    "name": "la06",
+    "num_jobs": 15,
+    "num_machines": 5,
+    "total_operations": 75,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 926
+  },
+  {
+    "name": "la07",
+    "num_jobs": 15,
+    "num_machines": 5,
+    "total_operations": 75,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 890
+  },
+  {
+    "name": "la08",
+    "num_jobs": 15,
+    "num_machines": 5,
+    "total_operations": 75,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 863
+  },
+  {
+    "name": "la09",
+    "num_jobs": 15,
+    "num_machines": 5,
+    "total_operations": 75,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 951
+  },
+  {
+    "name": "la10",
+    "num_jobs": 15,
+    "num_machines": 5,
+    "total_operations": 75,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 958
+  },
+  {
+    "name": "la11",
+    "num_jobs": 20,
+    "num_machines": 5,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1222
+  },
+  {
+    "name": "la12",
+    "num_jobs": 20,
+    "num_machines": 5,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1039
+  },
+  {
+    "name": "la13",
+    "num_jobs": 20,
+    "num_machines": 5,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1150
+  },
+  {
+    "name": "la14",
+    "num_jobs": 20,
+    "num_machines": 5,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1292
+  },
+  {
+    "name": "la15",
+    "num_jobs": 20,
+    "num_machines": 5,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1207
+  },
+  {
+    "name": "la16",
+    "num_jobs": 10,
+    "num_machines": 10,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 945
+  },
+  {
+    "name": "la17",
+    "num_jobs": 10,
+    "num_machines": 10,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 784
+  },
+  {
+    "name": "la18",
+    "num_jobs": 10,
+    "num_machines": 10,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 848
+  },
+  {
+    "name": "la19",
+    "num_jobs": 10,
+    "num_machines": 10,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 842
+  },
+  {
+    "name": "la20",
+    "num_jobs": 10,
+    "num_machines": 10,
+    "total_operations": 100,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 902
+  },
+  {
+    "name": "la21",
+    "num_jobs": 15,
+    "num_machines": 10,
+    "total_operations": 150,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1046
+  },
+  {
+    "name": "la22",
+    "num_jobs": 15,
+    "num_machines": 10,
+    "total_operations": 150,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 927
+  },
+  {
+    "name": "la23",
+    "num_jobs": 15,
+    "num_machines": 10,
+    "total_operations": 150,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1032
+  },
+  {
+    "name": "la24",
+    "num_jobs": 15,
+    "num_machines": 10,
+    "total_operations": 150,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 935
+  },
+  {
+    "name": "la25",
+    "num_jobs": 15,
+    "num_machines": 10,
+    "total_operations": 150,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 977
+  },
+  {
+    "name": "la26",
+    "num_jobs": 20,
+    "num_machines": 10,
+    "total_operations": 200,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1218
+  },
+  {
+    "name": "la27",
+    "num_jobs": 20,
+    "num_machines": 10,
+    "total_operations": 200,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1235
+  },
+  {
+    "name": "la28",
+    "num_jobs": 20,
+    "num_machines": 10,
+    "total_operations": 200,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1216
+  },
+  {
+    "name": "la29",
+    "num_jobs": 20,
+    "num_machines": 10,
+    "total_operations": 200,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1152
+  },
+  {
+    "name": "la30",
+    "num_jobs": 20,
+    "num_machines": 10,
+    "total_operations": 200,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1355
+  },
+  {
+    "name": "la31",
+    "num_jobs": 30,
+    "num_machines": 10,
+    "total_operations": 300,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1784
+  },
+  {
+    "name": "la32",
+    "num_jobs": 30,
+    "num_machines": 10,
+    "total_operations": 300,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1850
+  },
+  {
+    "name": "la33",
+    "num_jobs": 30,
+    "num_machines": 10,
+    "total_operations": 300,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1719
+  },
+  {
+    "name": "la34",
+    "num_jobs": 30,
+    "num_machines": 10,
+    "total_operations": 300,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1721
+  },
+  {
+    "name": "la35",
+    "num_jobs": 30,
+    "num_machines": 10,
+    "total_operations": 300,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1888
+  },
+  {
+    "name": "la36",
+    "num_jobs": 15,
+    "num_machines": 15,
+    "total_operations": 225,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1268
+  },
+  {
+    "name": "la37",
+    "num_jobs": 15,
+    "num_machines": 15,
+    "total_operations": 225,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1397
+  },
+  {
+    "name": "la38",
+    "num_jobs": 15,
+    "num_machines": 15,
+    "total_operations": 225,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1196
+  },
+  {
+    "name": "la39",
+    "num_jobs": 15,
+    "num_machines": 15,
+    "total_operations": 225,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1233
+  },
+  {
+    "name": "la40",
+    "num_jobs": 15,
+    "num_machines": 15,
+    "total_operations": 225,
+    "avg_flexibility": 1.0,
+    "known_best_makespan": 1222
+  }
+]
